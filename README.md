@@ -9,6 +9,6 @@ Currently, two official plugins are available:
 
 
 
-#git clone https://github.com/MernSpace/home-page-1
-#npm install
-#npm run dev
+#git clone https://github.com/MernSpace/home-page-1<br>
+#npm install<br>
+#npm run dev<br>
